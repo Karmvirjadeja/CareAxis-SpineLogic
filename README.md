@@ -48,7 +48,7 @@ If a doctor disagrees with a diagnosis, CareAxis doesn't just apologize; it **le
 
 ## 🛠️ Tech Stack
 
-* **AI Core:** Google Gemini 1.5 Pro & Gemini 1.5 Flash
+* **AI Core:** Google Gemini 3
 * **Backend:** Python (FastAPI) for AI Logic, Node.js (Express) for App Data
 * **Frontend:** React, TypeScript, TailwindCSS
 * **Memory/RAG:** ChromaDB (Vector Store)
