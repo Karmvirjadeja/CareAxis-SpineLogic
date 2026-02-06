@@ -18,7 +18,7 @@ If a doctor disagrees with a diagnosis, CareAxis doesn't just apologize; it **le
 ## 🧠 The Dual-Brain Architecture
 
 ### 1. The Radix Agent (System 1)
-* **Model:** **Gemini 3 ** (Optimized for Latency)
+* **Model:** **Gemini 3** (Optimized for Latency)
 * **Role:** The "Reflex." It processes patient history, symptoms, and risk factors in milliseconds.
 * **Function:** Structures the chaotic clinical notes into a strict diagnostic context *before* the image is even loaded.
 
