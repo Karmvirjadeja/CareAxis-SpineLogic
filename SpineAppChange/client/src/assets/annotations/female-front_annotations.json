@@ -1,0 +1,200 @@
+{
+  "Right Foot": {
+    "x": 137,
+    "y": 1057,
+    "width": 74,
+    "height": 54
+  },
+  "Left foot": {
+    "x": 239,
+    "y": 1058,
+    "width": 73,
+    "height": 56
+  },
+  "Right Leg Front": {
+    "x": 143,
+    "y": 861,
+    "width": 71,
+    "height": 191
+  },
+  "Left leg Front": {
+    "x": 234,
+    "y": 861,
+    "width": 70,
+    "height": 192
+  },
+  "Right Knee": {
+    "x": 152,
+    "y": 803,
+    "width": 64,
+    "height": 54
+  },
+  "Left Knee": {
+    "x": 235,
+    "y": 802,
+    "width": 64,
+    "height": 55
+  },
+  "Right Thigh Front": {
+    "x": 118,
+    "y": 621,
+    "width": 102,
+    "height": 176
+  },
+  "Left Thigh Front": {
+    "x": 229,
+    "y": 619,
+    "width": 100,
+    "height": 178
+  },
+  "Right Inguinal Region": {
+    "x": 120,
+    "y": 559,
+    "width": 88,
+    "height": 58
+  },
+  "Crotch": {
+    "x": 211,
+    "y": 594,
+    "width": 28,
+    "height": 37
+  },
+  "Hypogastric/ pubic symphysis": {
+    "x": 211,
+    "y": 558,
+    "width": 28,
+    "height": 33
+  },
+  "Left Inguinal Region": {
+    "x": 242,
+    "y": 559,
+    "width": 82,
+    "height": 55
+  },
+  "Lower Abdomen": {
+    "x": 132,
+    "y": 511,
+    "width": 186,
+    "height": 44
+  },
+  "Mid Abdomen": {
+    "x": 142,
+    "y": 456,
+    "width": 167,
+    "height": 53
+  },
+  "Epigastrium": {
+    "x": 208,
+    "y": 403,
+    "width": 30,
+    "height": 51
+  },
+  "Right lower chest/hypochondrium": {
+    "x": 149,
+    "y": 404,
+    "width": 53,
+    "height": 47
+  },
+  "Left Lower Chest/hypochondrium": {
+    "x": 243,
+    "y": 405,
+    "width": 56,
+    "height": 47
+  },
+  "Right Chest/breast": {
+    "x": 148,
+    "y": 317,
+    "width": 73,
+    "height": 82
+  },
+  "Left Chest/ Breast": {
+    "x": 226,
+    "y": 318,
+    "width": 79,
+    "height": 82
+  },
+  "Right base of neck front": {
+    "x": 146,
+    "y": 276,
+    "width": 75,
+    "height": 38
+  },
+  "Left Base of Neck Front": {
+    "x": 226,
+    "y": 276,
+    "width": 78,
+    "height": 38
+  },
+  "Neck Front": {
+    "x": 182,
+    "y": 247,
+    "width": 83,
+    "height": 25
+  },
+  "Right Face": {
+    "x": 173,
+    "y": 174,
+    "width": 50,
+    "height": 70
+  },
+  "Left Face": {
+    "x": 228,
+    "y": 174,
+    "width": 46,
+    "height": 68
+  },
+  "Head Front": {
+    "x": 170,
+    "y": 123,
+    "width": 108,
+    "height": 47
+  },
+  "Right Shoulder": {
+    "x": 108,
+    "y": 284,
+    "width": 37,
+    "height": 52
+  },
+  "Left Shoulder": {
+    "x": 309,
+    "y": 284,
+    "width": 36,
+    "height": 54
+  },
+  "Right Arm Front": {
+    "x": 85,
+    "y": 340,
+    "width": 58,
+    "height": 100
+  },
+  "Left Arm Front": {
+    "x": 308,
+    "y": 342,
+    "width": 67,
+    "height": 98
+  },
+  "Right Forearm Front": {
+    "x": 41,
+    "y": 446,
+    "width": 79,
+    "height": 123
+  },
+  "Left Forearm Front": {
+    "x": 325,
+    "y": 445,
+    "width": 92,
+    "height": 127
+  },
+  "Right Hand": {
+    "x": 0,
+    "y": 575,
+    "width": 74,
+    "height": 93
+  },
+  "Left hand": {
+    "x": 376,
+    "y": 576,
+    "width": 78,
+    "height": 91
+  }
+}

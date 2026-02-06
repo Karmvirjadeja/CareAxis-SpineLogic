@@ -1,0 +1,230 @@
+{
+  "Left Glut Pain": {
+    "x": 143,
+    "y": 507,
+    "width": 74,
+    "height": 147
+  },
+  "Right Glut Pain": {
+    "x": 269,
+    "y": 505,
+    "width": 87,
+    "height": 145
+  },
+  "Tail Bone Pain": {
+    "x": 221,
+    "y": 552,
+    "width": 46,
+    "height": 75
+  },
+  "Lower Back Midline Pain": {
+    "x": 223,
+    "y": 488,
+    "width": 41,
+    "height": 60
+  },
+  "Lowback Pain": {
+    "x": 154,
+    "y": 401,
+    "width": 184,
+    "height": 82
+  },
+  "Right SI Joint Pain": {
+    "x": 268,
+    "y": 488,
+    "width": 70,
+    "height": 15
+  },
+  "Left SI Joint Pain": {
+    "x": 157,
+    "y": 487,
+    "width": 67,
+    "height": 16
+  },
+  "Mid Back Pain": {
+    "x": 130,
+    "y": 255,
+    "width": 221,
+    "height": 141
+  },
+  "Upper back Pain": {
+    "x": 132,
+    "y": 180,
+    "width": 221,
+    "height": 72
+  },
+  "Right Neck Pain": {
+    "x": 242,
+    "y": 81,
+    "width": 53,
+    "height": 94
+  },
+  "Left Neck Pain": {
+    "x": 192,
+    "y": 81,
+    "width": 46,
+    "height": 94
+  },
+  "Occipital Region Pain (Back of head)": {
+    "x": 177,
+    "y": 19,
+    "width": 131,
+    "height": 58
+  },
+  "Left Back of Thigh Pain": {
+    "x": 135,
+    "y": 657,
+    "width": 108,
+    "height": 167
+  },
+  "Right Back of thigh Pain": {
+    "x": 248,
+    "y": 649,
+    "width": 120,
+    "height": 176
+  },
+  "Left Back of knee Pain": {
+    "x": 144,
+    "y": 827,
+    "width": 95,
+    "height": 57
+  },
+  "Right Back of knee Pain": {
+    "x": 259,
+    "y": 828,
+    "width": 99,
+    "height": 57
+  },
+  "Left Calf Pain": {
+    "x": 146,
+    "y": 888,
+    "width": 93,
+    "height": 218
+  },
+  "Right Calf Pain": {
+    "x": 262,
+    "y": 889,
+    "width": 91,
+    "height": 220
+  },
+  "Left Sole and outer part of foot pain": {
+    "x": 118,
+    "y": 1109,
+    "width": 72,
+    "height": 40
+  },
+  "Left heel Pain": {
+    "x": 193,
+    "y": 1111,
+    "width": 47,
+    "height": 43
+  },
+  "Left great toe pain": {
+    "x": 118,
+    "y": 1082,
+    "width": 26,
+    "height": 25
+  },
+  "Right sole and outer part of foot pain": {
+    "x": 311,
+    "y": 1112,
+    "width": 82,
+    "height": 37
+  },
+  "Right great toe pain": {
+    "x": 357,
+    "y": 1085,
+    "width": 22,
+    "height": 23
+  },
+  "Right heel pain": {
+    "x": 266,
+    "y": 1113,
+    "width": 43,
+    "height": 35
+  },
+  "Left shoulder pain": {
+    "x": 65,
+    "y": 210,
+    "width": 64,
+    "height": 82
+  },
+  "Right shoulder pain": {
+    "x": 359,
+    "y": 204,
+    "width": 67,
+    "height": 91
+  },
+  "Left back of arm pain": {
+    "x": 60,
+    "y": 298,
+    "width": 66,
+    "height": 104
+  },
+  "Right back of arm pain": {
+    "x": 360,
+    "y": 299,
+    "width": 75,
+    "height": 102
+  },
+  "Left elbow pain": {
+    "x": 35,
+    "y": 405,
+    "width": 95,
+    "height": 49
+  },
+  "Right elbow pain": {
+    "x": 364,
+    "y": 406,
+    "width": 96,
+    "height": 47
+  },
+  "Left fore arm pain": {
+    "x": 35,
+    "y": 460,
+    "width": 86,
+    "height": 114
+  },
+  "Right forearm pain": {
+    "x": 368,
+    "y": 459,
+    "width": 104,
+    "height": 104
+  },
+  "Left thumb pain": {
+    "x": 70,
+    "y": 579,
+    "width": 54,
+    "height": 57
+  },
+  "Right thumb pain": {
+    "x": 372,
+    "y": 569,
+    "width": 51,
+    "height": 68
+  },
+  "Left little finger pain": {
+    "x": 44,
+    "y": 637,
+    "width": 65,
+    "height": 49
+  },
+  "Right little finger pain": {
+    "x": 402,
+    "y": 639,
+    "width": 51,
+    "height": 45
+  },
+  "Left dorsum of hand pain": {
+    "x": 36,
+    "y": 578,
+    "width": 30,
+    "height": 58
+  },
+  "Right dorsum of hand pain": {
+    "x": 428,
+    "y": 569,
+    "width": 40,
+    "height": 66
+  }
+}

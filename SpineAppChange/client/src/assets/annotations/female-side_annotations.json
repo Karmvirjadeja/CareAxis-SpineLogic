@@ -1,0 +1,158 @@
+{
+  "Headache": {
+    "x": 208,
+    "y": -63,
+    "width": 137,
+    "height": 71
+  },
+  "Occipital region pain": {
+    "x": 81,
+    "y": -64,
+    "width": 118,
+    "height": 80
+  },
+  "Neck pain": {
+    "x": 120,
+    "y": 28,
+    "width": 87,
+    "height": 138
+  },
+  "Jaw and front of neck pain": {
+    "x": 205,
+    "y": 99,
+    "width": 91,
+    "height": 65
+  },
+  "Upper back pain": {
+    "x": 102,
+    "y": 162,
+    "width": 41,
+    "height": 58
+  },
+  "Mid back pain": {
+    "x": 96,
+    "y": 217,
+    "width": 54,
+    "height": 124
+  },
+  "Shoulder pain": {
+    "x": 137,
+    "y": 159,
+    "width": 91,
+    "height": 101
+  },
+  "Arm pain": {
+    "x": 153,
+    "y": 263,
+    "width": 66,
+    "height": 108
+  },
+  "Elbow pain": {
+    "x": 139,
+    "y": 374,
+    "width": 81,
+    "height": 71
+  },
+  "Forearm pain": {
+    "x": 168,
+    "y": 454,
+    "width": 74,
+    "height": 111
+  },
+  "Glut pain": {
+    "x": 108,
+    "y": 512,
+    "width": 74,
+    "height": 198
+  },
+  "wrist pain": {
+    "x": 184,
+    "y": 556,
+    "width": 68,
+    "height": 48
+  },
+  "Thumb and index finger pain": {
+    "x": 213,
+    "y": 597,
+    "width": 81,
+    "height": 132
+  },
+  "Outer thigh pain": {
+    "x": 147,
+    "y": 723,
+    "width": 151,
+    "height": 171
+  },
+  "Outer knee pain": {
+    "x": 149,
+    "y": 903,
+    "width": 132,
+    "height": 108
+  },
+  "Outer leg pain": {
+    "x": 116,
+    "y": 1021,
+    "width": 128,
+    "height": 230
+  },
+  "outer ankle pain": {
+    "x": 155,
+    "y": 1249,
+    "width": 66,
+    "height": 65
+  },
+  "Dkorsum of foot pain": {
+    "x": 209,
+    "y": 1297,
+    "width": 83,
+    "height": 42
+  },
+  "heel pain": {
+    "x": 137,
+    "y": 1311,
+    "width": 72,
+    "height": 51
+  },
+  "outer side of foot and little toe pain": {
+    "x": 211,
+    "y": 1334,
+    "width": 87,
+    "height": 35
+  },
+  "great toe pain": {
+    "x": 298,
+    "y": 1318,
+    "width": 37,
+    "height": 53
+  },
+  "Upper chest/ breast pain": {
+    "x": 218,
+    "y": 201,
+    "width": 114,
+    "height": 169
+  },
+  "Lower rib pain": {
+    "x": 216,
+    "y": 366,
+    "width": 62,
+    "height": 90
+  },
+  "epigastric pain": {
+    "x": 276,
+    "y": 366,
+    "width": 50,
+    "height": 88
+  },
+  "abdominal ache": {
+    "x": 242,
+    "y": 449,
+    "width": 83,
+    "height": 94
+  },
+  "lower abdominal ache": {
+    "x": 259,
+    "y": 540,
+    "width": 64,
+    "height": 53
+  }
+}

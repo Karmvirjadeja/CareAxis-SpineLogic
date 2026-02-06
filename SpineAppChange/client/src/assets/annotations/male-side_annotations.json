@@ -1,0 +1,182 @@
+{
+  "Jaw and front of neck pain": {
+    "x": 142,
+    "y": -45,
+    "width": 133,
+    "height": 59
+  },
+  "Neck pain": {
+    "x": 267,
+    "y": -144,
+    "width": 90,
+    "height": 144
+  },
+  "Headache": {
+    "x": 108,
+    "y": -220,
+    "width": 140,
+    "height": 70
+  },
+  "Occipital region pain": {
+    "x": 250,
+    "y": -220,
+    "width": 107,
+    "height": 70
+  },
+  "shoulder Pain": {
+    "x": 231,
+    "y": 35,
+    "width": 110,
+    "height": 141
+  },
+  "Upper back pain": {
+    "x": 336,
+    "y": 44,
+    "width": 42,
+    "height": 75
+  },
+  "Mid back pain": {
+    "x": 342,
+    "y": 116,
+    "width": 39,
+    "height": 194
+  },
+  "Upper chest pain": {
+    "x": 131,
+    "y": 31,
+    "width": 98,
+    "height": 194
+  },
+  "Arm Pain": {
+    "x": 233,
+    "y": 181,
+    "width": 107,
+    "height": 112
+  },
+  "Outer part of elbow pain": {
+    "x": 233,
+    "y": 298,
+    "width": 104,
+    "height": 59
+  },
+  "Epigastric pain": {
+    "x": 132,
+    "y": 226,
+    "width": 48,
+    "height": 112
+  },
+  "Lower rib pain": {
+    "x": 176,
+    "y": 226,
+    "width": 57,
+    "height": 112
+  },
+  "Abdominal ache": {
+    "x": 132,
+    "y": 335,
+    "width": 98,
+    "height": 80
+  },
+  "Forearm pain": {
+    "x": 233,
+    "y": 354,
+    "width": 77,
+    "height": 176
+  },
+  "Glut Pain": {
+    "x": 307,
+    "y": 458,
+    "width": 54,
+    "height": 189
+  },
+  "Lower abdominal ache": {
+    "x": 135,
+    "y": 415,
+    "width": 95,
+    "height": 85
+  },
+  "Thumb and index finger pain": {
+    "x": 179,
+    "y": 573,
+    "width": 39,
+    "height": 146
+  },
+  "Middle finger pain": {
+    "x": 218,
+    "y": 576,
+    "width": 33,
+    "height": 144
+  },
+  "Ring and little finger pain": {
+    "x": 248,
+    "y": 576,
+    "width": 51,
+    "height": 144
+  },
+  "Radial wrist pain": {
+    "x": 227,
+    "y": 531,
+    "width": 21,
+    "height": 45
+  },
+  "Mid dorsum of wrist pain": {
+    "x": 248,
+    "y": 528,
+    "width": 21,
+    "height": 48
+  },
+  "Ulnar wrist pain": {
+    "x": 269,
+    "y": 528,
+    "width": 27,
+    "height": 48
+  },
+  "Outer side of thigh pain": {
+    "x": 145,
+    "y": 717,
+    "width": 170,
+    "height": 114
+  },
+  "Outer side of knee pain": {
+    "x": 165,
+    "y": 829,
+    "width": 164,
+    "height": 125
+  },
+  "Outer side of leg pain": {
+    "x": 202,
+    "y": 952,
+    "width": 134,
+    "height": 287
+  },
+  "Great toe pain": {
+    "x": 110,
+    "y": 1306,
+    "width": 45,
+    "height": 59
+  },
+  "Outer side of ankle pain": {
+    "x": 274,
+    "y": 1237,
+    "width": 54,
+    "height": 45
+  },
+  "Inner side of ankle pain": {
+    "x": 232,
+    "y": 1242,
+    "width": 42,
+    "height": 37
+  },
+  "Dorsum of foot pain": {
+    "x": 151,
+    "y": 1279,
+    "width": 173,
+    "height": 32
+  },
+  "Outer side of foot and little toe pain": {
+    "x": 157,
+    "y": 1309,
+    "width": 167,
+    "height": 51
+  }
+}

@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom animations for unified body model */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-out;
+}
+
+:root {
+  --background: hsl(0, 0%, 100%);
+  --foreground: hsl(240, 10%, 3.9%);
+  --muted: hsl(240, 4.8%, 95.9%);
+  --muted-foreground: hsl(240, 3.8%, 46.1%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(240, 10%, 3.9%);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(240, 10%, 3.9%);
+  --border: hsl(240, 5.9%, 90%);
+  --input: hsl(240, 5.9%, 90%);
+  --primary: hsl(207, 90%, 54%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(240, 4.8%, 95.9%);
+  --secondary-foreground: hsl(240, 5.9%, 10%);
+  --accent: hsl(240, 4.8%, 95.9%);
+  --accent-foreground: hsl(240, 5.9%, 10%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 10%, 3.9%);
+  --radius: 0.5rem;
+
+  /* Medical theme colors */
+  --medical-blue: hsl(207, 90%, 54%);
+  --medical-green: hsl(142, 71%, 45%);
+  --medical-red: hsl(0, 65%, 51%);
+  --medical-gray: hsl(210, 20%, 98%);
+  --text-primary: hsl(220, 13%, 13%);
+  --text-secondary: hsl(220, 9%, 46%);
+}
+
+.dark {
+  --background: hsl(240, 10%, 3.9%);
+  --foreground: hsl(0, 0%, 98%);
+  --muted: hsl(240, 3.7%, 15.9%);
+  --muted-foreground: hsl(240, 5%, 64.9%);
+  --popover: hsl(240, 10%, 3.9%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --card: hsl(240, 10%, 3.9%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --border: hsl(240, 3.7%, 15.9%);
+  --input: hsl(240, 3.7%, 15.9%);
+  --primary: hsl(207, 90%, 54%);
+  --primary-foreground: hsl(211, 100%, 99%);
+  --secondary: hsl(240, 3.7%, 15.9%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(240, 3.7%, 15.9%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 4.9%, 83.9%);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI",
+      "Roboto", sans-serif;
+  }
+}
+
+@layer components {
+  .smooth-transition {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .glass-effect {
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.8);
+  }
+
+  .touch-target {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  .pain-scale-button {
+    @apply w-12 h-12 rounded-full border-2 border-gray-300 flex items-center justify-center text-sm font-medium smooth-transition touch-target hover:border-primary hover:bg-primary hover:bg-opacity-10;
+  }
+
+  .pain-scale-button.selected {
+    @apply border-primary bg-primary text-white;
+  }
+
+  .medical-card {
+    @apply bg-white rounded-2xl shadow-sm border border-gray-100 p-6;
+  }
+
+  .medical-input {
+    @apply w-full px-4 py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary smooth-transition;
+  }
+
+  .medical-input[aria-invalid="true"] {
+    @apply border-destructive focus:ring-destructive focus:border-destructive;
+  }
+
+  .medical-button {
+    @apply px-6 py-3 rounded-xl font-medium smooth-transition touch-target;
+  }
+
+  .medical-button-primary {
+    @apply medical-button bg-primary text-white hover:bg-blue-600;
+  }
+
+  .medical-button-secondary {
+    @apply medical-button border border-gray-300 text-gray-700 hover:bg-gray-50;
+  }
+
+  .medical-checkbox {
+    @apply flex items-center space-x-3 p-3 border border-gray-200 rounded-xl hover:bg-gray-50 smooth-transition cursor-pointer touch-target;
+    pointer-events: auto;
+    position: relative;
+    z-index: 1;
+  }
+}
