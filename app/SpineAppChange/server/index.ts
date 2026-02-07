@@ -1,5 +1,6 @@
 // server/index.ts
 import dotenv from "dotenv";
+import path from "path"; 
 dotenv.config();
 import express, { type Request, Response, NextFunction } from "express";
 import cors from "cors";
@@ -82,6 +83,15 @@ wss.on("connection", (ws, req) => {
   app.use("/api/assessments", assessmentRouter);
   app.use("/api/users", userRouter);
   app.use("/api/aiassessments", aiRoutes);
+
+
+  const clientBuildPath = path.join(__dirname, "../../client/dist"); 
+app.use(express.static(clientBuildPath));
+
+app.get("*", (req, res, next) => {
+  if (req.path.startsWith("/api")) return next();
+  res.sendFile(path.join(clientBuildPath, "index.html"));
+});
   // --- Centralized Error Handler ---
   app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {
     const status = err.status || 500;
