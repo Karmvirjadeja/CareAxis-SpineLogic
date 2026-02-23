@@ -4,7 +4,7 @@ CareAxis: A "Dual-Brain" Clinical Intelligence Layer powered by Gemini 3. Featur
 
 # 🏥 CareAxis (Neuro-Vision Engine)
 
-![Status](https://img.shields.io/badge/Status-Prototype-blue) ![Stack](https://img.shields.io/badge/AI-Gemini_1.5_Pro_%26_Flash-magenta) ![Memory](https://img.shields.io/badge/Memory-Vector_RAG-green) ![Hackathon](https://img.shields.io/badge/Gemini_3_Hackathon-Submission-orange)
+![Status](https://img.shields.io/badge/Status-Prototype-blue) ![Stack](https://img.shields.io/badge/AI-Gemini_3_Pro_%26_Flash-magenta) ![Memory](https://img.shields.io/badge/Memory-Vector_RAG-green) ![Hackathon](https://img.shields.io/badge/Gemini_3_Hackathon-Submission-orange)
 
 > **The "Dual-Brain" Agentic Architecture for High-Stakes Spine Diagnostics.** > *Not just a wrapper—a self-correcting Clinical Operating System.*
 
